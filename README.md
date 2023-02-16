@@ -3,7 +3,7 @@ This project is a backend for a website that allows users to easily book sports 
 
 ## Features
 * JSON file handling and storage using GSON
-* RESTful API using Spring Boot
+* API using Spring Boot
 * Server hosting using Tomcat
 * CRUD operations on a SQLite database
 * Automated confirmation emails on booking creating using a gmail account and the javax.mail library
