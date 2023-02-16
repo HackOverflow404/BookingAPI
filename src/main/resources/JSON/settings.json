@@ -1,0 +1,15 @@
+{
+  "price": 300,
+  "maxDateInterval": 7,
+  "timeRangeBegin": "07:00 AM",
+  "timeRangeEnd": "06:00 PM",
+  "courts": [
+    "Tennis",
+    "Table Tennis",
+    "Basketball",
+    "Squash",
+    "Badminton",
+    "Volleyball",
+    "Soccer"
+  ]
+}
